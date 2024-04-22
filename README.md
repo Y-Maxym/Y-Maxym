@@ -48,7 +48,7 @@
 
 <div align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="github stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=darkworld&layout=compact&theme=onedark"/>
+    <img alt="github stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=darkworld&layout=compact&theme=onedark&hide_border=true"/>
   </a>
 </div>
 
