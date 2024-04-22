@@ -12,6 +12,9 @@
   <a href="https://github.com/Y-Maxym">
     <img height="20" src="https://img.shields.io/github/stars/Y-Maxym?logo=github&style=flat" />
   </a>
+   <a href="https://wakatime.com/@7fa069f3-e6f8-4636-9677-54a723c40e35">
+      <img  src="https://wakatime.com/badge/user/018f0235-d802-4f6b-982a-b8a7b09eee12.svg"/>
+   </a>
 </p>
 
 <p align="left">
