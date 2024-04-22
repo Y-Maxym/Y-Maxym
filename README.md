@@ -32,7 +32,8 @@
   </a>
 </div>
 
-### Recent Activities
+<h3 align="left">Recent Activities</h3>
+
 <div align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Y-Maxym&count_private=true&show_icons=true&custom_title=GitHub%20Stats&theme=onedark&hide_border=true" />
@@ -45,7 +46,7 @@
   </a>
 </div>
 
-<div>
+<div align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img alt="github stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=darkworld&layout=compact&theme=onedark&hide_border=true"/>
   </a>
