@@ -44,14 +44,14 @@
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img alt="github stats" height="150px" src="https://streak-stats.demolab.com?user=Y-Maxym&theme=onedark&hide_border=true" />
   </a>
-   <a href="https://github.com/anuraghazra/github-readme-stats">
+   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
     <img alt="github stats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Y-Maxym&theme=onedark"/>
   </a>
 </div>
 
 <div align="left">
   <a href="https://wakatime.com/">
-    <img alt="github stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=darkworld&layout=compact&theme=onedark&hide_border=true"/>
+    <img alt="github stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=darkworld&layout=compact&theme=onedark&hide_border=true&custom_title=Language%20stats%20(start%2024%20Apr%202024)"/>
   </a>
 </div>
 
