@@ -2,18 +2,20 @@
 <p align="center">I am a Java Software Engineer from Ukraine</p>
 <p align="center">Here you can see my developments, have a nice time!</p>
 
-<p align="left"> 
+<p>
    <a href="https://github.com/Y-Maxym">
     <img src="https://komarev.com/ghpvc/?username=Y-Maxym" alt="Y-Maxym" />
   </a>
+</p>
+<p align="left"> 
   <a href="https://github.com/Y-Maxym">
-    <img height="20" src="https://img.shields.io/github/followers/Y-Maxym?label=follow&logo=github&style=flat" />
+    <img height="20" src="https://img.shields.io/github/followers/Y-Maxym?label=follow&logo=github&style=social" />
   </a>
   <a href="https://github.com/Y-Maxym">
-    <img height="20" src="https://img.shields.io/github/stars/Y-Maxym?logo=github&style=flat" />
+    <img height="20" src="https://img.shields.io/github/stars/Y-Maxym?logo=github&style=social" />
   </a>
    <a href="https://wakatime.com/@darkworld">
-      <img  src="https://wakatime.com/badge/user/018f0235-d802-4f6b-982a-b8a7b09eee12.svg"/>
+      <img  src="https://wakatime.com/badge/user/018f0235-d802-4f6b-982a-b8a7b09eee12.svg?style=social"/>
    </a>
 </p>
 
