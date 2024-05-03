@@ -53,7 +53,7 @@
 
 <div align="left">
   <a href="https://wakatime.com/@darkworld">
-    <img alt="github stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=darkworld&layout=compact&theme=onedark&hide_border=true&custom_title=Language%20stats%20(start%2022%20Apr%202024)"/>
+    <img alt="github stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=darkworld&layout=compact&theme=onedark&hide_border=true&custom_title=Language%20stats"/>
   </a>
 </div>
 
