@@ -2,6 +2,14 @@
 <p align="center">I am a Java Software Engineer from Ukraine</p>
 <p align="center">Here you can see my developments, have a nice time!</p>
 
+<div style="text-align: center;">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Y-Maxym/Y-Maxym/blob/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Y-Maxym/Y-Maxym/blob/output/github-snake.svg" />
+    <img alt="github-snake" src="https://github.com/Y-Maxym/Y-Maxym/blob/output/ocean.gif" />
+  </picture>
+</div>
+
 <p>
    <a href="https://github.com/Y-Maxym">
     <img src="https://komarev.com/ghpvc/?username=Y-Maxym" alt="Y-Maxym" />
