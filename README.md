@@ -85,7 +85,7 @@
 <hr/>
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=7731F7&lines=Thanks+for+visiting!;+Have+a+nice+time!" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&color=7731F7&lines=Thanks+for+visiting!;+Have+a+nice+time!" />
 </div>
 
 <!--
