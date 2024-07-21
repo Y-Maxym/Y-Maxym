@@ -4,6 +4,8 @@
   </a>
 </p>
 
+
+
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=7731F7&lines=Hi+There!+👋;+I'm+Maxym!;" />
 </h1>
@@ -28,7 +30,13 @@
   </picture>
 </div>
 
-<p align="center"> 
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Y-Maxym&theme=onedark&no-frame=true" alt="Y-Maxym" />
+  </a>
+</p>
+
+<p align="center">
   <a href="https://github.com/Y-Maxym">
     <img height="20" src="https://img.shields.io/github/followers/Y-Maxym?label=follow&logo=github&style=social" />
   </a>
@@ -38,12 +46,6 @@
    <a href="https://wakatime.com/@darkworld">
       <img  src="https://wakatime.com/badge/user/018f0235-d802-4f6b-982a-b8a7b09eee12.svg?style=social"/>
    </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Y-Maxym&theme=onedark&no-frame=true" alt="Y-Maxym" />
-  </a>
 </p>
 
 <hr/>
