@@ -10,7 +10,7 @@
 </p>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=7731F7&lines=Hi+There!+👋;+I'm+Maxym!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=50&duration=4000&color=7731F7&lines=Hi+There!+👋;+I'm+Maxym!;" />
 </h1>
 
 <p align="center">I am a Java Software Engineer from Ukraine</p>
@@ -90,7 +90,7 @@
 <hr/>
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=20&duration=4000&color=7731F7&lines=Thanks+for+visiting!;+Have+a+nice+time!" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=30&duration=4000&color=7731F7&lines=Thanks+for+visiting!;+Have+a+nice+time!" />
 </div>
 
 <p align="center">
