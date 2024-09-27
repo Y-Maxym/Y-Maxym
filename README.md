@@ -5,6 +5,9 @@
 </p>
 
 
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=7731f7&section=header"/>
+</p>
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=7731F7&lines=Hi+There!+👋;+I'm+Maxym!;" />
@@ -90,6 +93,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&color=7731F7&lines=Thanks+for+visiting!;+Have+a+nice+time!" />
 </div>
 
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=7731f7&section=footer"/>
+</p>
 <!--
 **Y-Maxym/Y-Maxym** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
