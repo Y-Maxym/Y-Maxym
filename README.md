@@ -31,7 +31,7 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <a href="https://github.com/Y-Maxym">
     <img src="https://github-profile-trophy.vercel.app/?username=Y-Maxym&theme=onedark&no-frame=true" alt="Y-Maxym" />
   </a>
 </p>
@@ -53,11 +53,11 @@
 <h3 align="center">Languages and Tools</h3>
 
 <div align="center">
-   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Y-Maxym&layout=compact&theme=onedark&hide_border=true"/>
+   <a href="https://github.com/Y-Maxym">
+    <img alt="github stats" src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=Y-Maxym&layout=compact&theme=onedark&hide_border=true"/>
   </a>
    &ensp;
-   <a href="https://skillicons.dev">
+   <a href="https://github.com/Y-Maxym">
     <img src="https://skillicons.dev/icons?i=java,spring,git,aws,html,css,mysql,postgres,docker,kubernetes,maven,gradle,kafka,rabbitmq,redis,idea,postman,obsidian&perline=6" />
   </a>
 </div>
@@ -67,13 +67,13 @@
 <h3 align="center">Recent Activities and Stats</h3>
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Y-Maxym&count_private=true&show_icons=true&custom_title=GitHub%20Stats&theme=onedark&hide_border=true" />
+  <a href="https://github.com/Y-Maxym">
+    <img alt="github stats" height="150px" src="https://bad-apple-github-readme.vercel.app/api?username=Y-Maxym&count_private=true&show_icons=true&custom_title=GitHub%20Stats&theme=onedark&hide_border=true" />
   </a>
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+  <a href="https://github.com/Y-Maxym">
     <img alt="github stats" height="150px" src="https://streak-stats.demolab.com?user=Y-Maxym&theme=onedark&hide_border=true" />
   </a>
-   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+   <a href="https://github.com/Y-Maxym">
     <img alt="github stats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Y-Maxym&theme=onedark"/>
   </a>
 </div>
