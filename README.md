@@ -4,11 +4,6 @@
   </a>
 </p>
 
-
-<p align="center">
-     <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=7731f7&section=header"/>
-</p>
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=50&duration=4000&color=7731F7&lines=Hi+There!+👋;+I'm+Maxym!;" />
 </h1>
