@@ -54,7 +54,7 @@
 
 <div align="center">
    <a href="https://github.com/Y-Maxym">
-    <img alt="github stats" src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=Y-Maxym&layout=compact&theme=onedark&hide_border=true"/>
+    <img alt="github stats" src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=Y-Maxym&layout=compact&theme=onedark&hide_border=true&exclude_repo=dotfiles"/>
   </a>
    &ensp;
    <a href="https://github.com/Y-Maxym">
