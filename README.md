@@ -28,7 +28,7 @@
 
 <p align="center">
   <a href="https://github.com/Y-Maxym">
-    <img src="https://github-profile-trophy.vercel.app/?username=Y-Maxym&theme=onedark&no-frame=true" alt="Y-Maxym" />
+    <img src="https://trophy.ryglcloud.net/?username=Y-Maxym&theme=onedark&no-frame=true" alt="Y-Maxym" />
   </a>
 </p>
 
